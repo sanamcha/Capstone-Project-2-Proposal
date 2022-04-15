@@ -45,9 +45,9 @@ What kind of users will visit your app?
 All the users who love the taste of different kinds of food can visit.
 
       9 . What does your database schema look like?
+      
 
-![mealdata](https://user-images.githubusercontent.com/64443718/163607575-30400da2-3e1e-4359-b22b-63dc66114635.png)
-
+![recipedb](https://user-images.githubusercontent.com/64443718/163653253-cbcae63c-aea2-44fd-bfc1-cb127150a00a.png)
 
 
 
