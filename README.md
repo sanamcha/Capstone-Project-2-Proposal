@@ -3,7 +3,7 @@
 Sanam Maharjan:
 Capstone Project-2 Proposal:
 
-The Best Chef Training Center:  
+The Best Food-Recipe Training App:  
 
 Project Ideas:
 What tech stack will you use for your final project? 
