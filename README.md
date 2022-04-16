@@ -46,8 +46,8 @@ All the users who love the taste of different kinds of food can visit.
 
       9 . What does your database schema look like?
       
+![foodRecipe](https://user-images.githubusercontent.com/64443718/163654911-44ca3565-54da-4055-bc3a-2f2b4563ff3d.png)
 
-![recipedb](https://user-images.githubusercontent.com/64443718/163653253-cbcae63c-aea2-44fd-bfc1-cb127150a00a.png)
 
 
 
